@@ -1,9 +1,9 @@
-# Data Scientist
+# Data Scientist and Method Expert 
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- Ph.D., Applied Stat and ML | The University of Memphis  							       		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
